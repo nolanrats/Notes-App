@@ -1,0 +1,1 @@
+Starting 6/17/2025, I want to create a function notes app that has user authentication and allows me to learn and practice full-stack engineering, something that I have absolutely no experience in. I want to learn a lot and have fun, and throw this on my resume. I'll keep building it up and move on to more complicated projects with the knowledge I'll acquire. Wish me luck!
